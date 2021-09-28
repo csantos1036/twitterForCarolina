@@ -23,11 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Log In: \n 
 <img src='https://imgur.com/8BGO0rk.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-Scroll and Refresh: \n
 <img src='https://user-images.githubusercontent.com/59743056/135016479-cbed8910-e71c-471f-b3d6-6eadd83535bc.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-User stays logged in and log out: \n
 <img src='https://user-images.githubusercontent.com/59743056/135016562-09d08337-0c77-458f-b1d0-4ed30856a885.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
